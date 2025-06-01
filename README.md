@@ -14,7 +14,7 @@ Make your Termux look and sound cooler with a custom banner and welcome message 
 ```bash
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/yourusername/termux-decorator
+git clone https://github.com/Mujaheed56/termux-decorator
 cd termux-decorator
 bash decorator.sh
 ```
